@@ -1,64 +1,155 @@
 # Branden Bryant
 
-Clinical Informatics | Healthcare Data Systems | AI Applications
+Clinical Informatics | Healthcare Data Engineering | HL7 / FHIR Interoperability | Artificial Intelligence
 
-I am a Medical Laboratory professional transitioning into Healthcare Technology and Clinical Data Systems. My work focuses on building tools that connect clinical workflows with modern data systems, analytics, and AI.
+Healthcare technology professional with a background in clinical laboratory science and a focus on building software solutions for healthcare data systems, interoperability, clinical analytics, and AI-driven healthcare tools.
 
----
+My work focuses on projects involving:
 
-## Healthcare Technology Projects
-
-### AI Lab Report Analyzer
-AI-powered system that analyzes laboratory results and detects abnormal values.
-
-Technologies:
-Python • Machine Learning • Data Analysis
-
-Repo:
-https://github.com/medlabtech2013/ai-powered-lab-report-analyzer
+• Healthcare data validation  
+• HL7 messaging and interoperability  
+• FHIR API integration  
+• Clinical laboratory analytics  
+• AI applications in healthcare  
+• Healthcare system monitoring and integration  
 
 ---
 
-### TVIP – Transfusion Validation Intelligence Platform
-Clinical validation dashboard designed to simulate BECS and blood bank validation workflows.
+# Featured Healthcare Technology Projects
 
-Features:
-Blood compatibility validation  
-Risk distribution analytics  
-Validation audit logs  
+## Transfusion Validation Intelligence Platform (TVIP)
 
-Technologies:
-FastAPI • Chart.js • Python
+A clinical validation simulation platform designed to demonstrate automated validation workflows for Blood Bank and Blood Establishment Computer Systems (BECS).
 
-Repo:
+Key features:
+
+• Compatibility validation logic  
+• Risk analytics dashboard  
+• Clinical validation audit logging  
+• Certification verification workflow  
+
+Repository  
 https://github.com/medlabtech2013/tvip-becs-validation-platform
 
 ---
 
-### HL7 → FHIR Clinical Data Converter
-Healthcare interoperability tool that converts HL7 laboratory messages into FHIR resources.
+## AI Lab Report Analyzer
 
-Technologies:
-Python • FastAPI • HL7 • FHIR
+A healthcare AI project designed to analyze laboratory test results and identify abnormal clinical values.
 
-Repo:
+Features
+
+• Laboratory data anomaly detection  
+• Clinical risk scoring engine  
+• Lab trend analytics dashboard  
+• AI-assisted clinical data interpretation  
+
+Repository  
+https://github.com/medlabtech2013/ai-powered-lab-report-analyzer
+
+---
+
+## HL7 to FHIR Clinical Data Bridge
+
+A healthcare interoperability project that converts HL7 clinical messages into structured FHIR resources.
+
+Features
+
+• HL7 message parsing  
+• FHIR resource generation  
+• Clinical data transformation pipeline  
+• Healthcare API integration  
+
+Repository  
 https://github.com/medlabtech2013/hl7-fhir-bridge
 
 ---
 
-## Technology Stack
+## Clinical Data Quality Monitor
+
+A healthcare data validation platform designed to analyze HL7 messages and laboratory results to detect data integrity issues during clinical data exchange.
+
+Features
+
+• HL7 message validation  
+• Laboratory critical value detection  
+• Clinical data quality scoring engine  
+• Healthcare validation API  
+
+Repository  
+https://github.com/medlabtech2013/clinical-data-quality-monitor
+
+---
+
+## Healthcare Integration Monitor
+
+A healthcare system integration monitoring platform designed to track HL7 interface health and FHIR API performance across clinical systems.
+
+Features
+
+• HL7 interface monitoring  
+• FHIR API latency tracking  
+• Integration status dashboard  
+• Healthcare system monitoring analytics  
+
+Repository  
+https://github.com/medlabtech2013/healthcare-integration-monitor
+
+---
+
+# Technology Stack
 
 Python  
 FastAPI  
 Machine Learning  
-Healthcare Data Standards (HL7 / FHIR)  
-Data Analytics  
+HL7 Messaging  
+FHIR APIs  
+Healthcare Data Systems  
+Clinical Informatics  
+Data Validation  
+API Development  
 
 ---
 
-## Professional Focus
+# Professional Background
 
+Medical Laboratory Technician  
+Princeton Baptist Medical Center
+
+11+ years of experience in clinical laboratory operations including chemistry, hematology, and blood bank workflows.
+
+Currently transitioning into healthcare technology and clinical data systems with a focus on healthcare interoperability, analytics, and AI-driven clinical applications.
+
+---
+
+# Education
+
+Master of Science – Information Systems (AI Systems Management)  
+Strayer University — In Progress
+
+Bachelor of Science – Information Technology (Artificial Intelligence)  
+Strayer University
+
+Associate Degree – Medical Laboratory Technology  
+Fortis Institute
+
+---
+
+# Areas of Interest
+
+Healthcare Artificial Intelligence  
 Clinical Informatics  
-Healthcare Data Systems  
-Laboratory Information Systems (LIS)  
-Healthcare AI Applications
+Healthcare Interoperability  
+Healthcare Data Engineering  
+Clinical Analytics  
+Healthcare System Integration  
+
+---
+
+# Connect With Me
+
+LinkedIn  
+https://www.linkedin.com/in/brandenbryant
+
+GitHub  
+https://github.com/medlabtech2013
