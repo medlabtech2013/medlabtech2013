@@ -1,4 +1,3 @@
-# Branden Bryant
 
 <p align="center">
 
