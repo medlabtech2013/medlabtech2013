@@ -8,8 +8,6 @@
 
 <p align="center">
 
-Clinical Informatics • Healthcare Data Engineering • HL7 / FHIR • AI
-
 </p>
 
 <p align="center">
