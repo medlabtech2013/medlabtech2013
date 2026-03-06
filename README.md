@@ -21,6 +21,8 @@
 
 </p>
 
+---
+
 ## What I'm Building
 
 Healthcare technology projects focused on improving clinical data systems and healthcare interoperability.
@@ -54,6 +56,8 @@ My work focuses on projects involving:
 <tr>
 
 <td width="50%">
+
+---
 
 ### Transfusion Validation Intelligence Platform (TVIP)
 
@@ -184,6 +188,8 @@ Platform that validates clinical data integrity across healthcare systems.
 </table>
 
 # Featured Healthcare Technology Projects
+
+---
 
 ## Transfusion Validation Intelligence Platform (TVIP)
 
@@ -336,6 +342,8 @@ https://github.com/medlabtech2013
 
 </p>
 
+---
+
 ## Coding Streak
 
 <p align="center">
@@ -343,6 +351,8 @@ https://github.com/medlabtech2013
 <img src="https://streak-stats.demolab.com?user=medlabtech2013&theme=github-dark&hide_border=true"/>
 
 </p>
+
+---
 
 ## GitHub Achievements
 
