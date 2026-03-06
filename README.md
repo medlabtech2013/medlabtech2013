@@ -164,6 +164,10 @@ https://github.com/medlabtech2013
 
 ---
 
+# GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlabtech2013&show_icons=true&theme=github_dark)
+
 # GitHub Activity
 
 ![Branden's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medlabtech2013&theme=github-dark)
