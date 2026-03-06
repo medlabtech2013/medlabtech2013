@@ -21,7 +21,19 @@
 
 </p>
 
-Healthcare technology professional with a background in clinical laboratory science and a focus on building software solutions for healthcare data systems, interoperability, clinical analytics, and AI-driven healthcare tools.
+## What I'm Building
+
+Healthcare technology projects focused on improving clinical data systems and healthcare interoperability.
+
+Current focus areas:
+
+• Healthcare AI for laboratory analytics  
+• HL7 and FHIR interoperability systems  
+• Clinical data validation and monitoring platforms  
+• Healthcare system integration dashboards  
+• Clinical data quality and risk analytics
+
+Healthcare technology professional with a clinical laboratory background focused on building software systems for healthcare data interoperability, clinical analytics, and AI-driven healthcare applications.
 
 
 My work focuses on projects involving:
@@ -34,6 +46,142 @@ My work focuses on projects involving:
 • Healthcare system monitoring and integration  
 
 ---
+
+## Project Portfolio
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Transfusion Validation Intelligence Platform (TVIP)
+
+Clinical validation simulation platform demonstrating Blood Bank and BECS validation workflows with analytics dashboards and audit logging.
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/medlabtech2013/tvip-becs-validation-platform/main/screenshots/dashboard.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### AI Lab Report Analyzer
+
+Healthcare AI system designed to analyze laboratory data and detect abnormal clinical values using machine learning techniques.
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/medlabtech2013/ai-powered-lab-report-analyzer/main/screenshots/risk_analysis.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### HL7 to FHIR Clinical Data Bridge
+
+Healthcare interoperability engine that parses HL7 messages and converts them into structured FHIR resources.
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/medlabtech2013/hl7-fhir-bridge/main/screenshots/dashboard.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Clinical Data Quality Monitor
+
+Healthcare data validation platform that analyzes HL7 messages and laboratory results to identify clinical data integrity issues.
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/medlabtech2013/clinical-data-quality-monitor/main/screenshots/dashboard.png"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Healthcare Integration Monitor
+
+Monitoring dashboard that tracks HL7 interface health and FHIR API performance across clinical systems.
+
+</td>
+
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/medlabtech2013/healthcare-integration-monitor/main/screenshots/integration_monitor_dashboard.png"/>
+
+</td>
+
+</tr>
+
+</table>
+
+## Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### TVIP Validation Platform  
+Blood Bank validation simulation system with risk analytics dashboard and certification verification.
+
+</td>
+
+<td width="50%">
+
+### HL7 → FHIR Bridge  
+Healthcare interoperability engine that converts HL7 clinical messages into FHIR resources.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### AI Lab Report Analyzer  
+Machine learning project for detecting abnormal laboratory test values.
+
+</td>
+
+<td width="50%">
+
+### Clinical Data Quality Monitor  
+Platform that validates clinical data integrity across healthcare systems.
+
+</td>
+
+</tr>
+</table>
 
 # Featured Healthcare Technology Projects
 
@@ -178,8 +326,6 @@ https://github.com/medlabtech2013
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medlabtech2013&theme=github_dark"/>
@@ -190,6 +336,21 @@ https://github.com/medlabtech2013
 
 </p>
 
+## Coding Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=medlabtech2013&theme=github-dark&hide_border=true"/>
+
+</p>
+
+## GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=medlabtech2013&theme=darkhub&no-frame=true&row=1&column=6"/>
+
+</p>
 
 ## GitHub Activity
 
