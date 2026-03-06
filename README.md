@@ -161,3 +161,9 @@ https://www.linkedin.com/in/brandenbryant
 
 GitHub  
 https://github.com/medlabtech2013
+
+---
+
+# GitHub Activity
+
+![Branden's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medlabtech2013&theme=github-dark)
