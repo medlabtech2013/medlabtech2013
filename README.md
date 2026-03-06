@@ -1,13 +1,26 @@
 # Branden Bryant
 
-Clinical Informatics | Healthcare Data Engineering | HL7 / FHIR Interoperability | Artificial Intelligence
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HL7](https://img.shields.io/badge/HL7-00599C?style=for-the-badge)
-![FHIR](https://img.shields.io/badge/FHIR-FF6F61?style=for-the-badge)
-![Healthcare Data](https://img.shields.io/badge/Healthcare%20Data-2E86C1?style=for-the-badge)
+<img src="banner.png"/>
+
+</p>
+
+<p align="center">
+
+Clinical Informatics • Healthcare Data Engineering • HL7 / FHIR • AI
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/HL7-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FHIR-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+</p>
 
 Healthcare technology professional with a background in clinical laboratory science and a focus on building software solutions for healthcare data systems, interoperability, clinical analytics, and AI-driven healthcare tools.
 
@@ -174,3 +187,11 @@ https://github.com/medlabtech2013
 
 </p>
 
+
+## GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medlabtech2013&theme=github-dark&hide_border=true"/>
+
+</p>
