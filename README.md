@@ -354,16 +354,6 @@ https://github.com/medlabtech2013
 
 ---
 
-## GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=medlabtech2013&theme=github_dark&column=6&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 ## GitHub Activity
 
 <p align="center">
