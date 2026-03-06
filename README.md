@@ -2,7 +2,15 @@
 
 Clinical Informatics | Healthcare Data Engineering | HL7 / FHIR Interoperability | Artificial Intelligence
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HL7](https://img.shields.io/badge/HL7-00599C?style=for-the-badge)
+![FHIR](https://img.shields.io/badge/FHIR-FF6F61?style=for-the-badge)
+![Healthcare Data](https://img.shields.io/badge/Healthcare%20Data-2E86C1?style=for-the-badge)
+
 Healthcare technology professional with a background in clinical laboratory science and a focus on building software solutions for healthcare data systems, interoperability, clinical analytics, and AI-driven healthcare tools.
+
 
 My work focuses on projects involving:
 
