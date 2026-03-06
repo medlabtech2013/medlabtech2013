@@ -164,12 +164,13 @@ https://github.com/medlabtech2013
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlabtech2013&show_icons=true&theme=github_dark&cache_seconds=1800)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medlabtech2013&layout=compact&theme=github_dark))
+<img src="https://github-readme-stats.vercel.app/api?username=medlabtech2013&show_icons=true&theme=github_dark&hide_border=true"/>
 
-# GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medlabtech2013&layout=compact&theme=github_dark&hide_border=true"/>
 
-![Branden's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=medlabtech2013&theme=github-dark)
+</p>
+
