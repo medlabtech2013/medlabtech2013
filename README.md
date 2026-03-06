@@ -166,7 +166,9 @@ https://github.com/medlabtech2013
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlabtech2013&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlabtech2013&show_icons=true&theme=github_dark&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=medlabtech2013&layout=compact&theme=github_dark))
 
 # GitHub Activity
 
