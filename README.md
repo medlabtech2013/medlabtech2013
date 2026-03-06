@@ -358,7 +358,7 @@ https://github.com/medlabtech2013
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=medlabtech2013&theme=darkhub&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=medlabtech2013&theme=github_dark&column=6&margin-w=10&margin-h=10"/>
 
 </p>
 
