@@ -354,6 +354,16 @@ https://github.com/medlabtech2013
 
 ---
 
+## Contribution Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medlabtech2013&theme=github_dark"/>
+
+</p>
+
+---
+
 ## GitHub Activity
 
 <p align="center">
