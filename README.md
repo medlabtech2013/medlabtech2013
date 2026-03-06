@@ -358,9 +358,11 @@ https://github.com/medlabtech2013
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=medlabtech2013&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=medlabtech2013&theme=darkhub&no-frame=true&margin-w=15"/>
 
 </p>
+
+---
 
 ## GitHub Activity
 
